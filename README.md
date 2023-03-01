@@ -1,10 +1,13 @@
 # 基于Vue开发的音乐系统--酷猫音乐
+本网站是在Windows10环境下，通过HBuilderX平台，使用Vue全家桶+element-ui+axios+网易云音乐接口做的一个PC端音乐播放器项目
+
 ###### 在线演示
 [地址在此，网页会比较慢](https://zhuqinzhang.github.io/vue-music.github.io/#/)
 
 # 开发过程
 
 `npm run dev`是开发
+
 `npm run build` + `npm run build-commonjs` + `npm run docs` 是准备发布
 
 # 图片展示
